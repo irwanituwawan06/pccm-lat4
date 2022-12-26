@@ -1,4 +1,4 @@
-FROM Alpine
+FROM alpine
 
 LABEL Maintener="Muhammad Irwan" \
       Kelas="Pengantar Cloud Computing"
